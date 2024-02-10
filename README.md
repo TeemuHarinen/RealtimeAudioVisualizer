@@ -4,4 +4,4 @@ Real time audio visualizer created with numpy and pyaudio. Creates an audio visu
 Proof of concept for future Stream Deck audio visualizer plugin. 
 
 
-![
+![visualizerPicture](https://github.com/TeemuHarinen/RealtimeAudioVisualizer/blob/ecefc0199a26d82bd51a1027d6a6770881701f96/assets/example.png)
