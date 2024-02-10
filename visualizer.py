@@ -16,7 +16,7 @@ GREEN = "\033[92m"
 RESET = "\033[0m"
 
 # Index for BlackHole
-DEVICE_INDEX = 5
+DEVICE_INDEX = 5 # Run findSourceIndex.py to find out audio source indexes
 
 def normalize_audio_data(audio_data):
     """Normalize the audio data to 0-1 range, ensuring no division by zero."""
